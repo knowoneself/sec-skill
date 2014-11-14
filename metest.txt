@@ -1,5 +1,3 @@
-dddddddddddddddddddddddd
-sssssssssssssssssssssss
-Creating a new branch is quick & simple
+this is a new test txt
 
 

@@ -1,4 +1,8 @@
 this is a new test txt
 
 
+<<<<<<< HEAD
 222222222 add bug
+=======
+111111 addd
+>>>>>>> dev
